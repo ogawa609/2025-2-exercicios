@@ -1,1 +1,5 @@
-# 2025-2-exercicios
+#include <stdio.h>
+int main(){
+printf("Hello world!");
+
+return 0;}
